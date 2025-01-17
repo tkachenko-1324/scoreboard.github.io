@@ -1,2 +1,1 @@
-# scoreboard.github.io
-AdMob Scoreboard
+# tkachenko-artm.github.io
