@@ -1,5 +1,5 @@
 title: Мои проекты
 description: Страница моих приложений с файлами app-ads.txt для AdMob
-baseurl: "" # Укажите "/", если это основная страница сайта
-url: "https://tkachenko-artm.github.io" # Замените на ваш URL
-theme: minima # Простая тема для Jekyll
+baseurl: ""
+url: "https://tkachenko-artm.github.io"
+theme: minima
