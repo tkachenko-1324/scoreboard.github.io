@@ -1,4 +1,3 @@
-title: Artem Tkachenko | Indie Apps Developer
-baseurl: ""
-url: "https://tkachenko-artm.github.io"
-theme: minima
+remote_theme: pages-themes/architect@v0.2.0
+title: "Artem Tkachenko"
+description: "Hello, I'm iOS Indie Apps Developer"
